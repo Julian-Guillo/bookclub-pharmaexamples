@@ -1,0 +1,15 @@
+{
+  "hash": "aec428470091e74462e4a38baa3ff532",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nengine: knitr\ntitle: \"ADVS\"\n---\n\n# Learning objectives\n\n::: nonincremental\n- THESE ARE NICE TO HAVE BUT NOT ABSOLUTELY NECESSARY\n:::\n\n::: notes\n- You can add notes on each slide with blocks like this!\n- Load a deck in the browser and type \"s\" to see these notes.\n:::\n\n# SLIDE SECTION\n\n## SLIDE\n\n- DENOTE MAJOR SECTIONS WITH `# TITLE` (eg `# Installation`)\n- ADD INDIVIDUAL SLIDES WITH `##` (eg `## rustup on Linux/macOS`)\n- KEEP THEM RELATIVELY SLIDE-LIKE; THESE ARE NOTES, NOT THE BOOK ITSELF.\n\n## SLIDE\n\n# SLIDE SECTION\n\n## SLIDE\n\n## SLIDE\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

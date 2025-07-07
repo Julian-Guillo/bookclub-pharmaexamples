@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "3fb1d65a"
+  },
+  "slides/00-club_intro.qmd": {
+    "00-club_intro.html": "0f4d63cb"
+  },
+  "slides/ADAE.qmd": {
+    "ADAE.html": "791b4e2b"
+  },
+  "slides/ADSL.qmd": {
+    "ADSL.html": "8da2c67f"
+  },
+  "slides/adverse_events.qmd": {
+    "adverse_events.html": "f09aefbb"
+  },
+  "slides/ADVS.qmd": {
+    "ADVS.html": "b3437726"
+  },
+  "slides/BDS.qmd": {
+    "BDS.html": "b3a665f7"
+  },
+  "slides/demographic_table.qmd": {
+    "demographic_table.html": "a311c612"
+  },
+  "slides/difference_betweens_logs.qmd": {
+    "difference_betweens_logs.html": "73ea15ef"
+  },
+  "slides/esubmission.qmd": {
+    "esubmission.html": "c59e4ce6"
+  },
+  "slides/pharmacokinetic.qmd": {
+    "pharmacokinetic.html": "09b9a0f1"
+  },
+  "slides/running_examples.qmd": {
+    "running_examples.html": "87dd0d85"
+  },
+  "slides/teal_applications.qmd": {
+    "teal_applications.html": "ba9a0cb9"
+  },
+  "slides/bds_presentation.md": {
+    "bds_presentation.html": "5dd23f89"
+  }
+}
